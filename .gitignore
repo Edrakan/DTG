@@ -1,0 +1,7 @@
+
+game/cache/bytecode.rpyb
+game/cache/pyanalysis.rpyb
+game/cache/screens.rpyb
+game/saves/persistent
+log.txt
+.DS_Store
