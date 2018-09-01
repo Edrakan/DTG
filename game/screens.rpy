@@ -309,7 +309,7 @@ screen navigation():
 
             textbutton _("Save") action ShowMenu("save")
 
-        textbutton _("Load") action ShowMenu("load")
+        textbutton _("Charger") action ShowMenu("load")
 
         textbutton _("Preferences") action ShowMenu("preferences")
 
